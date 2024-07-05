@@ -1,7 +1,6 @@
 package com.kagan.test;
 
 import java.util.HashMap;
-import java.util.Iterator;
 
 public final class NotImmutableClass {
 
